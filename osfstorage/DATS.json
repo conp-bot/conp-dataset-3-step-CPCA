@@ -1,0 +1,237 @@
+{
+  "title": "3-step CPCA",
+  "description": "The dataset used in this study is a subset of a large multisite dataset. The data contains measures from the following cognitive tasks: Consonant-vowel dichotic listening (DL), Matrix reasoning (MR), Source memory task (SMT), Backwards digit span (DS), Auditory signal detection (SD) (lab data collection only). The data also containes responses to for Cardiff Anomalous Perceptions Scale (CAPS) and Launay-Slade Hallucination Scale - Extended (LSHS-E) questionnaires. The full dataset used in the original study (https://psyarxiv.com/4wbgc/) can be found here (https://osf.io/eqy76/).",
+  "creators": [
+    {
+      "fullName": "Abhijit M Chinchani",
+      "firstName": "Abhijit",
+      "middleInitial": "M",
+      "lastName": "Chinchani",
+      "email": "abhijitchinchani@gmail.com",
+      "affiliations": [
+        {
+          "name": "The University of British Columbia"
+        }
+      ],
+      "roles": [
+        {
+          "value": "Contributor"
+        }
+      ],
+      "extraProperties": [
+        {
+          "category": "ORCID",
+          "values": [
+            {
+              "value": "https://orcid.org/0000-0001-5950-4332"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The University of British Columbia",
+      "abbreviation": "UBC"
+    },
+    {
+      "name": "UBC Dynamic Brain Circuits Cluster",
+      "abbreviation": "DBC"
+    },
+    {
+      "name": "Cognitive Neuroscience of Schizophrenia Lab",
+      "abbreviation": "CNoS"
+    }
+  ],
+  "types": [
+    {
+      "information": {
+        "value": "Psychophysics"
+      }
+    },
+    {
+      "information": {
+        "value": "Neuropsychological assessment"
+      }
+    },
+    {
+      "information": {
+        "value": "Cognitive assessment"
+      }
+    }
+  ],
+  "version": "1.0",
+  "privacy": "open",
+  "licenses": [
+    {
+      "name": "CC BY"
+    }
+  ],
+  "distributions": [
+    {
+      "formats": [
+        "CSV"
+      ],
+      "size": 1.1,
+      "unit": {
+        "value": "MB"
+      },
+      "access": {
+        "landingPage": "https://osf.io/aeg5d/",
+        "authorizations": [
+          {
+            "value": "public"
+          }
+        ]
+      }
+    }
+  ],
+  "primaryPublications": [
+    {
+      "title": "Item-specific overlap between hallucinatory experiences and cognition in the general population: A three-step multivariate analysis of international multi-site data",
+      "publicationVenue": "Cortex",
+      "authors": [],
+      "dates": [],
+      "identifier": {
+        "identifier": "https://doi.org/10.1016/j.cortex.2021.08.014",
+        "identifierSource": ""
+      }
+    }
+  ],
+  "isAbout": [
+    {
+      "name": "Homo sapiens",
+      "identifier": {
+        "identifier": "https://www.ncbi.nlm.nih.gov/taxonomy/9606",
+        "identifierSource": "NCBI Taxonomy Database"
+      }
+    }
+  ],
+  "spatialCoverage": [
+    {
+      "name": "International",
+      "description": "data collected online and from 11 centers, 5 in UK, one in each of the following countries, France, Netherlands, Czech Republic, Norway, Canada, and Australia"
+    }
+  ],
+  "acknowledges": [
+    {
+      "name": "Grants",
+      "funders": [
+        {
+          "name": "Wellcome Trust grant",
+          "abbreviation": ""
+        },
+        {
+          "name": "NHMRC senior research fellowship",
+          "abbreviation": ""
+        },
+        {
+          "name": "NHMRC New Investigator project grant",
+          "abbreviation": ""
+        },
+        {
+          "name": "Canadian Open Neuroscience Platform (CONP)  Brain Canada",
+          "abbreviation": ""
+        },
+        {
+          "name": "Internal Grant Agency of the Ministry of Health of the Czech Republic",
+          "abbreviation": ""
+        },
+        {
+          "name": "ERC Advanced Grant",
+          "abbreviation": ""
+        },
+        {
+          "name": "Helse-Vest Samarbeidsorganet",
+          "abbreviation": ""
+        },
+        {
+          "name": "Research Council of Norway",
+          "abbreviation": ""
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "value": "Hallucinations"
+    },
+    {
+      "value": "Cognition"
+    },
+    {
+      "value": "Multivariate analysis"
+    },
+    {
+      "value": "Signal detection"
+    },
+    {
+      "value": "Dichotic listening"
+    }
+  ],
+  "extraProperties": [
+    {
+      "category": "subjects",
+      "values": [
+        {
+          "value": "1394"
+        }
+      ]
+    },
+    {
+      "category": "files",
+      "values": [
+        {
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "category": "CONP_status",
+      "values": [
+        {
+          "value": "CONP"
+        }
+      ]
+    },
+    {
+      "category": "contact",
+      "values": [
+        {
+          "value": "Abhijit Chinchani, abhijitchinchani@gmail.com"
+        }
+      ]
+    },
+    {
+      "category": "derivedFrom",
+      "values": [
+        {
+          "value": "Correlates of hallucinatory experiences in the general population: an international multi-site replication study"
+        }
+      ]
+    },
+    {
+      "category": "parent_dataset_id",
+      "values": [
+        {
+          "value": "10.17605/OSF.IO/EQY76"
+        }
+      ]
+    },
+    {
+      "category": "REB_statement",
+      "values": [
+        {
+          "value": "In submitting this dataset for inclusion, I declare that participants have provided a valid informed consent to the de-identification and deposit of their data in an open-access portal."
+        }
+      ]
+    },
+    {
+      "category": "REB_number",
+      "values": [
+        {
+          "value": "All sites obtained ethical clearance from their relevant institutional review board, in accordance with the Declaration of Helsinki."
+        }
+      ]
+    }
+  ]
+}
